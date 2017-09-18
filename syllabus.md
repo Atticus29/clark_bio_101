@@ -4,10 +4,7 @@
 
 |Name|Office Location|Mailbox|Email|
 |:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|**TODO**|**TODO**|mfisher@clark.edu|
-
-
-###Office Hours##Course Info
+|Mark Fisher, PhD.|**TODO**|**TODO**|mfisher@clark.edu|##Course Info
 
 ---
 ###Class times and locations
