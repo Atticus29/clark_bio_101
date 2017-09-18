@@ -1,4 +1,10 @@
-#Clark College#Biology 101: Environmental Biology#Syllabus: Fall Quarter 2017##Instructor Information
+#Clark College
+
+#Biology 101: Environmental Biology
+
+#Syllabus: Fall Quarter 2017
+
+##Instructor Information
 
 ---
 
@@ -7,7 +13,9 @@
 |Mark Fisher, PhD.|**TODO**|**TODO**|mfisher@clark.edu|
 
 
-###Office Hours##Course Info
+###Office Hours
+
+##Course Info
 
 ---
 ###Class times and locations
