@@ -4,7 +4,7 @@
 
 |Name|Office Location|Mailbox|Email|
 |:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|**TODO**|**TODO**|mfisher@clark.edu|##Course Info
+|Mark Fisher, PhD.|CTC 0270-2|CTC 0273|mfisher@clark.edu|##Course Info
 
 ---
 ###Class times and locations
@@ -13,7 +13,7 @@
 |:---:|:---:|:---:|:---:|
 |Lab|CTC 0315|T|9:00AM-11:50AM|
 |Lecture|CTC 0318|T/Th|12:30PM-1:50PM|
-|Office Hours|**TODO**|T|2:00 PM - 3:00 PM|
+|Office Hours|CTC 0270-2|T|2:00 PM - 3:00 PM|
 |Conference|CTC 0315|Th|11:00AM-11:50AM|
 
 ###Textbooks and other resources
@@ -92,7 +92,7 @@ In my experience, most introductory-level science classes are challenging becaus
 
 	Students may drop a class and receive a “W” grade until the end of the 8th week of classes. After that, you will not be allowed to drop a class unless you get permission from the Dean. If you stop coming to class without officially withdrawing you will receive an “F”. Although you will not need my signature to drop this course, please email me to let me know if you have withdrawn as a courtesy.7. Late Assignment Policy
 
-	Assignments worth over 10 points will be accepted with point deductions up to 1 week after the due date with a point penalty. Turn in late assignments in person to me. If turning in during any other time or location (I have a mailbox in **TODO**) make sure to have a time and date stamp on it. Each weekday, there will be a 10% point deduction, up to a 50% deduction after 5 weekdays. Assignments more than 1 week late (5 weekdays) will NOT be accepted. Personal action journals, eco-footprints and other items that are to be posted on online Forums or discussion boards will not be accepted late.
+	Assignments worth over 10 points will be accepted with point deductions up to 1 week after the due date with a point penalty. Turn in late assignments in person to me. If turning in during any other time or location (I have a mailbox in CTC 0273) make sure to have a time and date stamp on it. Each weekday, there will be a 10% point deduction, up to a 50% deduction after 5 weekdays. Assignments more than 1 week late (5 weekdays) will NOT be accepted. Personal action journals, eco-footprints and other items that are to be posted on online Forums or discussion boards will not be accepted late.
 8. Missed Tests
 
 	There will be no make-up tests. The lowest test score will automatically be dropped.	If class is canceled for any reason, then scheduled assignments, quizzes, and tests will be collected/taken at the next class period.###Graded items and grading scale
