@@ -11,10 +11,14 @@
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lab|CTC 0315|T|9:00AM-11:50AM|
-|Lecture|CTC 0318|T/Th|12:30PM-1:50PM|
+|Lecture|CTC 0318|T|9:00AM-10:20AM|
+|Lab pt.1|CTC 0315|T|10:20AM-11:50AM|
+|Lab pt. 2|CTC 0318|T|12:30PM-1:50PM|
 |Office Hours|CTC 0270-2|T|2:00 PM - 3:00 PM|
+|Lecture|CTC 0318|Th|12:30PM-1:50PM|
 |Conference|CTC 0315|Th|11:00AM-11:50AM|
+
+*Please note that this schedule represents a minor rearrangement from the course described in the catalog such that lecture occurs before lab. The course still utilizes the same time slots!
 
 ###Textbooks and other resources
 
@@ -28,7 +32,7 @@
 
 ####Socrative
 
-- We will take advantage of a student response system called [Socrative](https://b.socrative.com/login/student/). The Room Name is **FISHER2070**. We will be using this tool to assess your (collective and personal) comprehension of topics in real time in the classroom. I'll be designing questions that I'll ask during lecture and lab and posting them to the room on Socrative. You'll be able to answer these questions from any browser or from the [ios or Android app](https://www.socrative.com/apps.html) downloaded onto your phone or tablet. If you can, please bring such a device to class every day.
+- We will take advantage of a student response system called [Socrative](https://b.socrative.com/login/student/). The Room Name is **FISHER2070**. We will be using this tool to assess your (collective and personal) comprehension of topics in real time in the classroom. I'll be designing questions that I'll ask during lecture and lab and posting them to the room on Socrative. You'll be able to answer these questions from any browser or from the [ios or Android app](https://www.socrative.com/apps.html) downloaded onto your phone or tablet. If you can, please bring such a device to class every day. **If you are unable to do this, please let me know as soon as possible**.
 
 ###Course Description
  Welcome to Biology 101 (Environmental Biology)! BIOL 101 is a five credit, introductory level course with no prerequisites. The objective of this course is to introduce you to a variety of environmental concepts using lectures, discussions, readings, and writing assignments.
@@ -41,7 +45,7 @@ Environmental Biology Lab is part of this course and provides additional opportu
 
 ####Philosophy and purpose of this course
 
-In this course you will have the opportunity to learn about and reflect on your impact on the environment. It is my hope that you make some lifestyle changes after you learn about your own ecological footprint. I believe we can all learn from each other so I encourage collaborative sharing of ideas (except during exams!). It is well known that we learn best by doing and experiencing, and that is where the interactive lab activities will further expand your understanding of the lecture concepts. I encourage you to come with an open mind!
+In this course you will have the opportunity to learn about and reflect on your impact on the environment. It is my hope that you make some lifestyle changes after you learn about your own ecological footprint. I believe we can all learn from each other, so I encourage collaborative sharing of ideas (except during exams!). It is well known that we learn best by doing and experiencing, and that is where the interactive lab activities will further expand your understanding of the lecture concepts. I encourage you to come with an open mind!
 ####Lab information
 Please note that the lab and conference are NOT separate entities from the lecture. One final grade is given for class and lab assignments.
 
