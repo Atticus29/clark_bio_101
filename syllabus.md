@@ -1,13 +1,38 @@
-#Clark College#Biology 101: Environmental Biology#Syllabus: Fall Quarter 2017##Instructor Information
+# Clark College# Biology 101: Environmental Biology# Syllabus: Fall Quarter 2017
+
+## Table of Contents
+- [Sections](#sections)
+	- [Instructor Information](instructure_information)
+	- [Course Info](course_info)
+		- [Class Times and Locations](class_times_and_locations)
+		- [Textbooks and Other Resources](textbooks_and_other_resources)
+			- [Textbook](textbook)
+			- [Computer Resources](computer_resources)
+			- [Socrative](socrative)
+		- [Course Description](course_description)
+			- [Philosophy and purpose of this course](philosophy_and_purpose_of_this_course)
+			- [Lab information](lab_information)
+			- [Expectations](expectations)
+			- [Specific student responsibilities](Specific_student_responsibilities)
+		- [Course objectives](course_objectives)
+		- [Course policies](course_policies)
+		- [Graded items and grading scale](graded_items_and_grading_scale)
+			- [Extra Credit Opportunities](extra_credit_opportunities)
+			- [Grading Scale](grading_scale)
+		- [Course Schedule](course_schedule)
+
+
+--
+## Instructor Information
 
 ---
 
 |Name|Office Location|Mailbox|Email|
 |:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|CTC 0270-2|CTC 0273|mfisher@clark.edu|##Course Info
+|Mark Fisher, PhD.|CTC 0270-2|CTC 0273|mfisher@clark.edu|## Course Info
 
 ---
-###Class times and locations
+### Class times and locations
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
@@ -20,21 +45,21 @@
 
 *Please note that this schedule represents a minor rearrangement from the course described in the catalog such that lecture occurs before lab. The course still utilizes the same time slots!
 
-###Textbooks and other resources
+### Textbooks and other resources
 
-####Textbook- *Essential Environment* (5th ed), by Withgott and Laposata
+#### Textbook- *Essential Environment* (5th ed), by Withgott and Laposata
 	- Available at Clark College Bookstore
 - Bring the textbook to class – we will use it during class time.
 
-####Computer Resources
+#### Computer Resources
 - There is a convenient computer lab in the library, and a list of Clark College’s computer labs can be accessed [here](http://www.clark.edu/campus-life/student-support/computing_resources/hours.php)
 - Library Resources, Tutoring and Writing Center, and Disability Support Services as well as other resources can be accessed on the [Clark College website](http://www.Clark.edu).
 
-####Socrative
+#### Socrative
 
 - We will take advantage of a student response system called [Socrative](https://b.socrative.com/login/student/). The Room Name is **FISHER2070**. We will be using this tool to assess your (collective and personal) comprehension of topics in real time in the classroom. I'll be designing questions that I'll ask during lecture and lab and posting them to the room on Socrative. You'll be able to answer these questions from any browser or from the [ios or Android app](https://www.socrative.com/apps.html) downloaded onto your phone or tablet. If you can, please bring such a device to class every day. **If you are unable to do this, please let me know as soon as possible**.
 
-###Course Description
+### Course Description
  Welcome to Biology 101 (Environmental Biology)! BIOL 101 is a five credit, introductory level course with no prerequisites. The objective of this course is to introduce you to a variety of environmental concepts using lectures, discussions, readings, and writing assignments.
 
 Examples of topics that we will discuss include environmental issues and their roots, human population growth and its impact on natural systems, ecosystems, invasive species, water quality, biodiversity, and ecological restoration.
@@ -43,24 +68,25 @@ Environmental Biology Lab is part of this course and provides additional opportu
 
 **This class meets 5 of your 15 science distribution credits for an Associate of Arts transfer degree. **
 
-####Philosophy and purpose of this course
+#### Philosophy and purpose of this course
 
 In this course you will have the opportunity to learn about and reflect on your impact on the environment. It is my hope that you make some lifestyle changes after you learn about your own ecological footprint. I believe we can all learn from each other, so I encourage collaborative sharing of ideas (except during exams!). It is well known that we learn best by doing and experiencing, and that is where the interactive lab activities will further expand your understanding of the lecture concepts. I encourage you to come with an open mind!
-####Lab information
+
+#### Lab information
 Please note that the lab and conference are NOT separate entities from the lecture. One final grade is given for class and lab assignments.
 
 Labs focus on hands-on learning of key concepts.
 
 Conferences will be used to introduce/review labs, take lecture tests and lab quizzes, and participate in additional activities and small group discussions. It is my hope that you will feel comfortable in the small group setting of lab and conference to participate in interactive group discussion and share your opinions, ideas and thoughts with your fellow lab-mates. Through collaboration you will come to a more full understanding of your place in the environment and what role you can play in a sustainable future.
-####ExpectationsScience doesn't come naturally to most people. If this is your first collegiate science course, you might be surprised at the amount of time required to be successful. Typically for every 1 hour a student is in a classroom lecture, they should be putting in 3 hours of homework on assignments, reading, and study time. This means that you should **carve out about 9 hours a week** to devote to reading, reviewing and completing assignments outside of the time spent with me in the classroom. This can vary for each student depending on how effectively you use your time and how well you comprehend the reading, but it should give you an idea of a typical college course expectation.
+#### ExpectationsScience doesn't come naturally to most people. If this is your first collegiate science course, you might be surprised at the amount of time required to be successful. Typically for every 1 hour a student is in a classroom lecture, they should be putting in 3 hours of homework on assignments, reading, and study time. This means that you should **carve out about 9 hours a week** to devote to reading, reviewing and completing assignments outside of the time spent with me in the classroom. This can vary for each student depending on how effectively you use your time and how well you comprehend the reading, but it should give you an idea of a typical college course expectation.
 
 Your effort outside of class will be reflected in the quality of work you do and result in a corresponding grade. In other words, do not expect an “A” grade when you are not putting in the time/effort outside of the classroom to achieve “A” work.
-#####Specific student responsibilities1.	You are responsible for knowing the due dates of assignments.
+##### Specific student responsibilities1.	You are responsible for knowing the due dates of assignments.
 2. If you miss lab, you are responsible for obtaining copies of handouts from other students. Handouts will not be brought to class a second time for those students who missed class.3. You are responsible for knowing WHERE the lab is meeting on any particular day.4.	You are responsible for knowing how you are doing in class. All points are cumulative. Keep all papers (quizzes, exams, returned assignments) until the final grade is given. Instructors make grading mistakes, so it will benefit you to keep your own records.
 
 *As you might imagine, we instructors get a ton of emails containing questions that could easily be answered by looking at this document, the course schedule, or referring to announcements made online. **As a courtesy to me, please make sure that these information sources have been checked before you email me with logistical questions. I reserve the right to reply with, "see syllabus" or "see announcements".**
 
-###Course objectives
+### Course objectives
 Upon successful completion of this course, a student should be able to:
 
 |Objective|Science Program Level Outcome|Assessments|
@@ -71,7 +97,7 @@ Your effort outside of class will be reflected in the quality of work you do and
 |Identify characteristics that make a species vulnerable to endangerment and extinction.|Demonstrate comprehension of fundamental principles and relationships in the natural sciences and Communicate concepts and issues in the natural sciences|Tests 3, 4, Final exam, Class discussions, Assignments, Lab quizzes|
 |Describe humans’ role in managing resources such as soil, water, and air|Demonstrate comprehension of fundamental principles and relationships in the natural sciences and Communicate concepts and issues in the natural sciences|Tests 3, 4, 5, Final exam, Class discussions, Assignments, Personal action project,|
 |Critically evaluate a variety of different types of sources for scientific credibility|Evaluate claims about the natural world using scientific methodology|Personal action project, Class discussions, Lab quizzes, Assignments, and Final exam|
-|Present information on the environmental impacts of a lifestyle change using credible and appropriate sources|Demonstrate comprehension of fundamental principles and relationships in the natural sciences and Communicate concepts and issues in the natural sciences|Personal action project|###Course policies
+|Present information on the environmental impacts of a lifestyle change using credible and appropriate sources|Demonstrate comprehension of fundamental principles and relationships in the natural sciences and Communicate concepts and issues in the natural sciences|Personal action project|### Course policies
 1. Attendance
 
 	Per university policy, attendance during the first week of class is mandatory. If you are absent during the first week and do not contact me, you will be dropped from the class. Attendance during the remainder of the term is critical to your success in this course. I will be tracking attendance, and it will contribute to your participation grade (see below). The exams will focus on material covered in lecture, and the answers to the exam questions may not be available directly from the textbook.
@@ -102,7 +128,7 @@ Your effort outside of class will be reflected in the quality of work you do and
 	Assignments worth over 10 points will be accepted with point deductions up to 1 week after the due date with a point penalty. Turn in late assignments in person to me. If turning in during any other time or location (I have a mailbox in CTC 0273) **make sure to have a time and date stamp on it**. Each weekday, there will be a 10% point deduction, up to a 50% deduction after 5 weekdays. Assignments more than 1 week late (5 weekdays) will NOT be accepted. Personal action journals, eco-footprints and other items that are to be posted on online Forums or discussion boards will not be accepted late.
 8. Missed Tests
 
-	There will be no make-up tests. The lowest test score will automatically be dropped.	If class is canceled for any reason, then scheduled assignments, quizzes, and tests will be collected/taken at the next class period.###Graded items and grading scale
+	There will be no make-up tests. The lowest test score will automatically be dropped.	If class is canceled for any reason, then scheduled assignments, quizzes, and tests will be collected/taken at the next class period.### Graded items and grading scale
 
 |Graded Component|Details|Contribution (raw points)|Contribution (% of final grade)|
 |:---:|:---:|:------:|:---:|
@@ -118,7 +144,7 @@ Your effort outside of class will be reflected in the quality of work you do and
 |**Total**||740|100%|
 
 
-####Grading Scale
+#### Grading Scale
 
  Grades are based on a percentage of the total cumulative pointsTtoal lecture points + Total lab points will result in the final grade (see table above).
 
@@ -130,6 +156,6 @@ Your effort outside of class will be reflected in the quality of work you do and
 |C|70-76%|
 |D|60-69%|
 |F|<59.9%|
-####Course Schedule
+#### Course Schedule
 
 The course schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1VzFvP5PEFnOKjtI4nmxta7PozU9ef0U8QVwFSYfWYOM/edit?usp=sharing). This schedule is tentative and subject to change. Any changes will be announced in LECTURE. It is a student’s responsibility to keep apprised of changes. Labs in bold mean there will be outdoor activities involved – dress accordingly.
