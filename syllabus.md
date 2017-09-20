@@ -1,28 +1,4 @@
 # Clark College# Biology 101: Environmental Biology# Syllabus: Fall Quarter 2017
-
-## Table of Contents
-- [Sections](#sections)
-	- [Instructor Information](instructure_information)
-	- [Course Info](course_info)
-		- [Class Times and Locations](class_times_and_locations)
-		- [Textbooks and Other Resources](textbooks_and_other_resources)
-			- [Textbook](textbook)
-			- [Computer Resources](computer_resources)
-			- [Socrative](socrative)
-		- [Course Description](course_description)
-			- [Philosophy and purpose of this course](philosophy_and_purpose_of_this_course)
-			- [Lab information](lab_information)
-			- [Expectations](expectations)
-			- [Specific student responsibilities](Specific_student_responsibilities)
-		- [Course objectives](course_objectives)
-		- [Course policies](course_policies)
-		- [Graded items and grading scale](graded_items_and_grading_scale)
-			- [Extra Credit Opportunities](extra_credit_opportunities)
-			- [Grading Scale](grading_scale)
-		- [Course Schedule](course_schedule)
-
-
---
 ## Instructor Information
 
 ---
