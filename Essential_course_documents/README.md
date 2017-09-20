@@ -106,6 +106,8 @@ Your effort outside of class will be reflected in the quality of work you do and
 
 	There will be no make-up tests. The lowest test score will automatically be dropped.	If class is canceled for any reason, then scheduled assignments, quizzes, and tests will be collected/taken at the next class period.### Graded items and grading scale
 
+*Please note that the weights and point distributions outlined below are subject to change. If they do change, this syllabus will be updated, and I'll post an announcement about it.
+
 |Graded Component|Details|Contribution (raw points)|Contribution (% of final grade)|
 |:---:|:---:|:------:|:---:|
 |Community Service|You will be responsible for coming up with a detailed plan for environmental community service by the end of week 4. During the quarter, you will be responsible for at least 8 hours of verified work. Document your work and answer the questions on the form in a single spaced typed one-two page final report. Final forms are due to be uploaded to our course website by the last lecture period. I am highly recommending work at the Clark College Native Plant Propagation Center located at the college greenhouse. I will provide a list with one or two other options as well. If you want to volunteer with any other environmental organization for this credit, you MUST get my approval BEFORE volunteering in order to receive credit. All forms will be posted on our course website.|100|13.51%|
