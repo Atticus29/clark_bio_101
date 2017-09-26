@@ -12,12 +12,13 @@
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|CTC 0318|T|9:00AM-10:20AM|
+|Lecture|CTC 0315|T|9:00AM-10:20AM|
 |Lab pt.1|CTC 0315|T|10:20AM-11:50AM|
 |Lab pt. 2|CTC 0318|T|12:30PM-1:50PM|
 |Office Hours|CTC 0270-2|T|2:00 PM - 3:00 PM|
-|Lecture|CTC 0318|Th|12:30PM-1:50PM|
 |Conference|CTC 0315|Th|11:00AM-11:50AM|
+|Lecture|CTC 0318|Th|12:30PM-1:50PM|
+
 
 *Please note that this schedule represents a minor rearrangement from the course described in the catalog such that lecture occurs before lab. The course still utilizes the same time slots!
 
