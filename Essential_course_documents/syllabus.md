@@ -3,9 +3,9 @@
 
 ---
 
-|Name|Office Location|Mailbox|Email|
-|:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|CTC 0270-2|CTC 0273|mfisher@clark.edu|## Course Info
+|Name|Office Location|Mailbox|Email|Emergency Email|
+|:---:|:---:|:---:|:---:|:---:|
+|Mark Fisher, PhD.|CTC 0270-2|CTC 0273|mfisher@clark.edu|mark.aaron.fisher@gmail.com|## Course Info
 
 ---
 ### Class times and locations
