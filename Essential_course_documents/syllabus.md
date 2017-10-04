@@ -137,4 +137,35 @@ Your effort outside of class will be reflected in the quality of work you do and
 |F|<59.9%|
 #### Course Schedule
 
-The course schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1VzFvP5PEFnOKjtI4nmxta7PozU9ef0U8QVwFSYfWYOM/edit?usp=sharing). This schedule is tentative and subject to change. Any changes will be announced in LECTURE. It is a student’s responsibility to keep apprised of changes. Labs in bold mean there will be outdoor activities involved – dress accordingly.
+The course schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1VzFvP5PEFnOKjtI4nmxta7PozU9ef0U8QVwFSYfWYOM/edit?usp=sharing). This schedule is tentative and subject to change. Any changes will be announced in LECTURE. It is a student’s responsibility to keep apprised of changes. Labs in bold mean there will be outdoor activities involved – dress accordingly.#### ADA Accommodations
+If you have emergency medical information which should be shared; or if you
+require assistance in case the building should be evacuated; please make an appointment to see me as soon as
+possible during the office hours indicated in this syllabus. Any student with a disability who may require
+accommodation in order to fully participate in this class should contact the Disability Support Services Office 
+31 | Page
+at (360) 992-2314 or (360) 991-0901 (VP) or stop by GHL 137.
+
+#### Non-discrimination Policy
+Clark College affirms a commitment to freedom from discrimination for all members of the college
+community. The responsibility for, and the protection of, this commitment extends to students, faculty,
+administration, staff, contractors, and those who develop or participate in college programs. It encompasses
+every aspect of employment and every student and community activity. The college expressly prohibits
+discrimination on the basis of race, color, national origin, age, perceived or actual physical or mental disability,
+pregnancy, genetic information, sex, sexual orientation, gender identity, marital status, creed, religion,
+honorably discharged veteran or military status, or use of a trained guide dog or service animal.
+
+#### Title IX and Sexual Misconduct
+Clark College’s sexual misconduct policy (WAC 132N-125-035(14)) strictly prohibits sexual harassment,
+intimidation, and violence, including domestic and dating violence, and stalking. Anyone experiencing sexual
+misconduct is encouraged to talk to someone about what happened so they can get the support needed, and
+Clark College can respond appropriately. If you wish to speak confidentially about an incident of sexual
+misconduct, please contact a counselor at the [Counseling and Health Center](http://www.clark.edu/campuslife/student-support/counseling/health_services/).
+Any disclosure of such misconduct shared with a faculty or
+staff member in person, via email, and/or in coursework requires that Clark College faculty and staff act as
+“responsible employees” and share this information with the Title IX Coordinator, Maria Masson, Assistant
+Director of Human Resources. Information regarding support, resources, and reporting options can be found
+[online](http://www.clark.edu/clark-and-community/about/policies-procedures/title-IX/index.php)
+
+#### Important College-Wide Student Information
+Please check the syllabus template located at [https://clarknet.clark.edu/](https://clarknet.clark.edu/) ,under “Departments”, then “Office of Instruction”, then Development” for important college-wide student
+information. 
