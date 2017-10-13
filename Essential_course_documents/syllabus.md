@@ -78,6 +78,7 @@ Your effort outside of class will be reflected in the quality of work you do and
 1. Attendance
 
 	Per university policy, attendance during the first week of class is mandatory. If you are absent during the first week and do not contact me, you will be dropped from the class. Attendance during the remainder of the term is critical to your success in this course. I will be tracking attendance, and it will contribute to your participation grade (see below). The exams will focus on material covered in lecture, and the answers to the exam questions may not be available directly from the textbook.
+	If you are unable to attend a class later in the quarter, I will note have notes available for you; please get in touch with a classmate (or better yet, ask one in advance to take notes for you if you know in advance that you won't be there). 
 2.	Class Preparation
 
 	Success in this course depends not only on attendance, but also on effort. Many of the concepts that we will discuss will be unfamiliar to you, and much of the vocabulary will be new. In order to make the most of class time, read over the assigned chapters or sections BEFORE the class and then re-read them more carefully DIRECTLY AFTER the class in which they are discussed. Waiting until right before a test to read the text is highly ineffective. Throughout the quarter, there will be in-class group activities and I will also be calling on students for responses to questions. Your interaction on these fronts will contribute to your participation grade.
