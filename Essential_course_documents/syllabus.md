@@ -1,4 +1,4 @@
-# Clark College# Biology 101: Environmental Biology# Syllabus: Spring Quarter 2017
+# Clark College# Biology 101: Environmental Biology# Syllabus: Winter Quarter 2018
 ## Instructor Information
 
 ---
