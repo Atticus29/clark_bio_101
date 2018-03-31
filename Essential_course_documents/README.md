@@ -1,4 +1,4 @@
-# Clark College# Biology 101: Environmental Biology# Syllabus: Winter Quarter 2018
+# Clark College# Biology 101: Environmental Biology (7736)# Syllabus: Spring Quarter 2018
 ## Instructor Information
 
 ---
@@ -12,13 +12,10 @@
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|CTC 0315|T|9:00AM-10:20AM|
-|Lab pt.1|CTC 0315|T|10:20AM-11:50AM|
-|Lab pt. 2|CTC 0315|T|12:30PM-1:50PM|
+|Lecture|CTC 0210|T/Th|9:00AM-10:20AM|
+|Lecture|CTC 0210|Th|11:00AM-11:50AM|
+|Lab|CTC 0315|T|11:00AM-1:50PM|
 |Office Hours|CTC 0270-2|T|2:00 PM - 3:00 PM|
-|Conference|CTC 0315|Th|11:00AM-11:50AM|
-|Lecture|CTC 0315|Th|12:30PM-1:50PM|
-
 
 *Please note that this schedule represents a minor rearrangement from the course described in the catalog such that lecture occurs before lab. The course still utilizes the same time slots!
 
@@ -104,7 +101,7 @@ Your effort outside of class will be reflected in the quality of work you do and
 
 	Cheating takes many forms. If you are not clear on what constitutes cheating (plagiarism, etc.), just ask me. Some quick examples of academic dishonesty include misrepresenting another student‘s work as your own or saying that you performed community service that you didn't.5. Classroom Behavior
 
-	Modern technology is amazing, and in many instances it can be a tremendous learning asset. I'm not going to stop you from having or using these resources in class, and indeed will often leverage them to enhance your learning experience. However, sometimes the myriad temptations provided by having a phone, tablet, or laptop in front of you can compete with the course content for your attention.
+	Modern technology is amazing, and in many instances it can be a tremendous learning asset. I'm not going to stop you from having or using these resources in class because you are an adult, and indeed will often leverage them to enhance your learning experience. However, sometimes the myriad temptations provided by having a phone, tablet, or laptop in front of you can compete with the course content for your attention.
 
 	There are several studies that demonstrate a dramatic decrease of retention when a learner tries to multi-task, so please be aware of this and be warned that YOU ARE NOT MIRACULOUSLY IMMUNE TO THIS EFFECT.
 	If you are honest with yourself and find the temptation too great, I strongly recommend taking notes by hand.
@@ -116,7 +113,7 @@ Your effort outside of class will be reflected in the quality of work you do and
 	Assignments worth over 10 points will be accepted with point deductions up to 1 week after the due date with a point penalty. Each weekday, there will be a 10% point deduction, up to a 50% deduction after 5 weekdays. Assignments more than 1 week late (5 weekdays) will NOT be accepted. Personal action journals, eco-footprints, and other items that are to be posted on online Forums or discussion boards will not be accepted late.
 8. Missed Tests
 
-	There will be no make-up tests. The lowest test score will automatically be dropped.	If class is canceled for any reason, then scheduled assignments, quizzes, and tests will be collected/taken at the next class period.### Graded items and grading scale
+	There will be no make-up tests. This includes family emergencies, sicknesses, etc. Because of this stringent policy, the lowest test score will automatically be dropped.	### Graded items and grading scale
 
 *Please note that the weights and point distributions outlined below are subject to slight change. If the points values of anything change from what is laid out below, this syllabus will be updated, and I'll post an announcement about it.
 
@@ -125,9 +122,9 @@ Your effort outside of class will be reflected in the quality of work you do and
 |Community Service|You will be responsible for coming up with a detailed plan for environmental community service by the end of week 4. During the quarter, you will be responsible for at least 8 hours of verified work. Document your work and answer the questions on the form in a single spaced typed one-two page final report. Final forms are due to be uploaded to our course website by the last lecture period. I am highly recommending work at the Clark College Native Plant Propagation Center located at the college greenhouse. I will provide a list with one or two other options as well. If you want to volunteer with any other environmental organization for this credit, you MUST get my approval BEFORE volunteering in order to receive credit. All forms will be posted on our course website.|100|13.74%|
 |Tests|Tests will not be comprehensive. They will cover the chapters and information from the labs that week. Tests will be multiple choice, matching, true/false, and short answer. Please bring a #2 pencil and an eraser. Your lowest test score will be dropped. Tests will be given in conference unless otherwise noted. NO make-up tests since I drop a score anyway.|best four of five tests @ 50 points each = 200|27.47%|
 |Final Exam|The final exam will be comprehensive (covering material from the entire quarter). It will have the same format as the other tests.	Any material covered in lab, lecture or conference may appear on the final exam.|100|13.74%|
-|Other assignments/reading quizzes/in-class activities|These may be assigned and/or completed in lecture. Stay tuned for more information.|~25|3.43%|
+|Other assignments/reading quizzes/in-class activities|These may be assigned and/or completed in lecture. Stay tuned for more information.|~15|TODO ALL 3.43%|
 |Participation|Every student begins the quarter with a perfect participation score. Deductions occur when students are absent, tardy, disruptive, or don't conduct themselves professionally|50|6.87%|
-|Lab Assignments|Lab assignments will consist of either active participation in the lab itself or of worksheets focusing on readings and/or the lab activities. Lab assignments will be due at the end of lab. Occasionally there may be a pre-lab assignment. |100|15.11%|
+|Lab Assignments|Lab assignments will consist of either active participation in the lab itself or of worksheets focusing on readings and/or the lab activities. Lab assignments will be due at the end of lab. Occasionally there may be a pre-lab assignment. |9 @ 15 points each = 120|TODO 15.11%|
 |Lab Quizzes|Quizzes will be given at the beginning of conference. Quizzes will be on the material presented in the most recently completed lab. Taking notes and asking questions in lab will help you on the quizzes. On the weeks that there is no lab quiz, there will be lab questions on the exam for that week.|4 @ 10 points each = 40|5.49%|
 |Personal Action Project (PAP)|You will get to choose a personal action project that requires active participation throughout the quarter. You will conduct research on an environmental issue related to your action(s) and present this research during a designated time slot (see course schedule). You will be required to upload a bibliography with appropriate sources onto the course website. You will also keep an online weekly journal to record your progress. The journal entries will be posted on our online discussion forum. A separate PAP Instruction Sheet will be posted on our course website with more details. Your instructor can provide some PAP suggestions if need be.|100|14.15%|
 |Extra Credit Opportunities|You may accrue up to 15 points of extra credit over the course of the semester by: 1) Attending a Student Success Workshop (FREE) this quarter (5 pts.), 2) Watch a film called “Chasing Ice” and type up a one page summary of what the movie is about and what you learned from watching the film (5 pts), 3) Other opportunities will be announced in class and posted on our course website under Extra Credit.|15|N/A|
