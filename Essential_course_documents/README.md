@@ -1,4 +1,5 @@
-# Clark College# Biology 101: Environmental Biology (7736)# Syllabus: Spring Quarter 2018
+# Clark College# Biology 101: Environmental Biology (7736)
+# Syllabus: Spring Quarter 2018
 ## Instructor Information
 
 ---
