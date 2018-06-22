@@ -124,17 +124,17 @@ Your effort outside of class will be reflected in the quality of work you do and
 |Tests|Tests will not be comprehensive. They will cover the chapters and information from the labs that week. Tests will be multiple choice, matching, true/false, and short answer. Please bring a #2 pencil and an eraser. Your lowest test score will be dropped. Tests will be given in conference unless otherwise noted. NO make-up tests since I drop a score anyway.|best four of five tests @ 50 points each = 200|27.6%|
 |Final Exam|The final exam will be comprehensive (covering material from the entire quarter). It will have the same format as the other tests.	Any material covered in lab, lecture or conference may appear on the final exam.|100|13.8%|
 |Other assignments/reading quizzes/in-class activities|These may be assigned and/or completed in lecture. Stay tuned for more information.|~15|2.1%|
-|Participation|Every student begins the quarter with a perfect participation score. Deductions occur when students are absent, tardy, disruptive, or don't conduct themselves professionally|50|6.9%|
-|Lab Assignments|Lab assignments will consist of either active participation in the lab itself or of worksheets focusing on readings and/or the lab activities. Lab assignments will be due at the end of lab. Occasionally there may be a pre-lab assignment. |9 @ 15 points each = 120|16.6%|
+|Participation|Every student begins the quarter with a perfect participation score. Deductions occur when students are absent, tardy, disruptive, don't contribute to conversation in lecture, and/or don't conduct themselves professionally|50|6.9%|
+|Lab Assignments|Lab assignments will consist of either active participation in the lab itself or of worksheets focusing on readings and/or the lab activities. Lab assignments will be due at the end of lab. Occasionally there may be a pre-lab assignment. |9 @ 15 points each = 135|16.6%|
 |Lab Quizzes|Quizzes will be given at the beginning of conference. Quizzes will be on the material presented in the most recently completed lab. Taking notes and asking questions in lab will help you on the quizzes. On the weeks that there is no lab quiz, there will be lab questions on the exam for that week.|4 @ 10 points each = 40|5.5%|
-|Personal Action Project (PAP)|You will get to choose a personal action project that requires active participation throughout the quarter. You will conduct research on an environmental issue related to your action(s) and present this research during a designated time slot (see course schedule). You will be required to upload a bibliography with appropriate sources onto the course website. You will also keep an online weekly journal to record your progress. The journal entries will be posted on our online discussion forum. A separate PAP Instruction Sheet will be posted on our course website with more details. Your instructor can provide some PAP suggestions if need be.|100|13.8%|
+|Personal Action Project (PAP)|You will get to choose a personal action project that requires active participation throughout the quarter. You will conduct research on an environmental issue related to your action(s) and present this research during a designated time slot (see course schedule). You will be required to upload a bibliography with appropriate sources onto the course website. You will also keep an online weekly journal to record your progress. The journal entries will be posted on our online discussion forum. A separate PAP Instruction Sheet will be posted on our course website with more details. Your instructor can provide some PAP suggestions if need be.|~100|13.8%|
 |Extra Credit Opportunities|You may accrue up to 15 points of extra credit over the course of the semester by: 1) Attending a Student Success Workshop (FREE) this quarter (5 pts.), 2) Watch a film called “Chasing Ice” and type up a one page summary of what the movie is about and what you learned from watching the film (5 pts), 3) Other opportunities will be announced in class and posted on our course website under Extra Credit.|15|N/A|
-|**Total**||725|100%|
+|**Total**||735|100%|
 
 
 #### Grading Scale
 
- Grades are based on a percentage of the total cumulative pointsTtoal lecture points + Total lab points will result in the final grade (see table above).
+ Grades are based on a percentage of the total cumulative points. Total lecture points + Total lab points will result in the final grade (see table above).
 
 |Letter Grade|Corresponding Percentage Range|
 |:---:|:---:||A|92-100%||B+|88-89%|
