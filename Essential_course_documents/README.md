@@ -1,5 +1,5 @@
-# Clark College# Biology 101: Environmental Biology (7736)
-# Syllabus: Spring Quarter 2018
+# Clark College# Biology 101: Environmental Biology (2113)
+# Syllabus: Fall Quarter 2018
 ## Instructor Information
 
 ---
@@ -13,12 +13,11 @@
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|CTC 0210|T/Th|9:00AM-10:20AM|
-|Lecture|CTC 0210|Th|11:00AM-11:50AM|
-|Lab|CTC 0315|T|11:00AM-1:50PM|
+|Lecture|CTC 315|T/Th|12:30PM-1:50PM|
+|Lecture|CTC 315|Th|11:00AM-11:50AM|
+|Lab|CTC 315|T|9:00AM-11:50AM|
 |Office Hours|CTC 0270-2|T|2:00 PM - 3:00 PM|
 
-*Please note that this schedule represents a minor rearrangement from the course described in the catalog such that lecture occurs before lab. The course still utilizes the same time slots!
 
 ### Textbooks and other resources
 
