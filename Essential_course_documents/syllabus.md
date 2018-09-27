@@ -13,8 +13,8 @@
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lecture|CTC 315|T/Th|12:30PM-1:50PM|
-|Lecture|CTC 315|Th|11:00AM-11:50AM|
+|Lecture|CTC 318|T/Th|12:30PM-1:50PM|
+|Lecture|CTC 318|Th|11:00AM-11:50AM|
 |Lab|CTC 315|T|9:00AM-11:50AM|
 |Office Hours|CTC 0270-2|T|2:00 PM - 3:00 PM|
 
