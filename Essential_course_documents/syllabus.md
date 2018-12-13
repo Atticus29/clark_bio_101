@@ -136,7 +136,8 @@ Your effort outside of class will be reflected in the quality of work you do and
  Grades are based on a percentage of the total cumulative points. Total lecture points + Total lab points will result in the final grade (see table above).
 
 |Letter Grade|Corresponding Percentage Range|
-|:---:|:---:||A|92-100%||B+|88-89%|
+|:---:|:---:||A|92-100%|
+|A-|90-91.99%||B+|88-89%|
 |B|82-87%|
 |B-|80-81%|
 |C+|77-79%|

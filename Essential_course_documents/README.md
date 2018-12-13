@@ -136,7 +136,8 @@ Your effort outside of class will be reflected in the quality of work you do and
  Grades are based on a percentage of the total cumulative points. Total lecture points + Total lab points will result in the final grade (see table above).
 
 |Letter Grade|Corresponding Percentage Range|
-|:---:|:---:||A|92-100%||B+|88-89%|
+|:---:|:---:||A|92-100%|
+|A-|90-91.99%||B+|88-89%|
 |B|82-87%|
 |B-|80-81%|
 |C+|77-79%|
@@ -145,7 +146,7 @@ Your effort outside of class will be reflected in the quality of work you do and
 |F|<59.9%|
 #### Course Schedule
 
-The course schedule can be viewed [here TODO not yet up-to-date](https://docs.google.com/spreadsheets/d/1VzFvP5PEFnOKjtI4nmxta7PozU9ef0U8QVwFSYfWYOM/edit?usp=sharing). This schedule is tentative and subject to change. Any changes will be announced in LECTURE. It is a student’s responsibility to keep apprised of changes. Labs in bold mean there will be outdoor activities involved – dress accordingly.#### ADA Accommodations
+The course schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1VzFvP5PEFnOKjtI4nmxta7PozU9ef0U8QVwFSYfWYOM/edit?usp=sharing). This schedule is tentative and subject to change. Any changes will be announced in LECTURE. It is a student’s responsibility to keep apprised of changes. Labs in bold mean there will be outdoor activities involved – dress accordingly.#### ADA Accommodations
 If you have emergency medical information which should be shared; or if you
 require assistance in case the building should be evacuated; please make an appointment to see me as soon as
 possible during the office hours indicated in this syllabus. Any student with a disability who may require
