@@ -113,9 +113,19 @@ Your effort outside of class will be reflected in the quality of work you do and
 	Assignments worth over 10 points will be accepted with point deductions up to 1 week after the due date with a point penalty. Each weekday, there will be a 10% point deduction, up to a 50% deduction after 5 weekdays. Assignments more than 1 week late (5 weekdays) will NOT be accepted. Personal action journals, eco-footprints, and other items that are to be posted on online Forums or discussion boards will not be accepted late.
 8. Missed Tests
 
-	There will be no make-up tests. This includes family emergencies, sicknesses, etc. Because of this stringent policy, the lowest test score will automatically be dropped.	### Graded items and grading scale
+	There will be no make-up tests. This includes family emergencies, sicknesses, etc. Because of this stringent policy, the lowest test score will automatically be dropped.	
+	
+9. Regrade Policy
+
+	If you wish to dispute a grade, I will consider your request up to one full week after the assignment has been returned to you and you have access to solutions (whichever happens later). Requests for grade adjustments beyond the one-week deadline will not be considered.	Re-grade requests for assignments and exams will be handled online. In order for a re-grade to be considered, you must message me the following:	1. Which question you want addressed	2. What your answer was (exactly!). Photo or physical evidence may be required.	3. Detailed justification for point recovery	Any requests that do not include ALL THREE things WILL NOT be reviewed. I use this re-grade policy because sometimes writing about the question helps students realize where the mistake was (this is certainly the case for me when I write about things), and it gives students time to write more diplomatic emails (and me more time to truly consider the request and write diplomatic responses).	This means that after-class re-grade ambushes will be met with frowns.
+
+---
+
+
+### Graded items and grading scale
 
 *Please note that the weights and point distributions outlined below are subject to slight change. If the points values of anything change from what is laid out below, this syllabus will be updated, and I'll post an announcement about it.
+
 
 |Graded Component|Details|Contribution (raw points)|Contribution (% of final grade)|
 |:---:|:---:|:------:|:---:|
