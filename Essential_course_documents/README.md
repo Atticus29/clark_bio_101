@@ -21,7 +21,7 @@
 
 ### Textbooks and other resources
 
-#### Textbook- *Essential Environment* (5th ed), by Withgott and Laposata
+#### Textbook- *Essential Environment* (6th ed), by Withgott and Laposata
 	- Available at Clark College Bookstore
 - Bring the textbook to class – we will use it during class time.
 
