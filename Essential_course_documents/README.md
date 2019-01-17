@@ -1,5 +1,5 @@
-# Clark College# Biology 101: Environmental Biology (2113)
-# Syllabus: Fall Quarter 2018
+# Clark College# Biology 101: Environmental Biology (4116)
+# Syllabus: Winter Quarter 2019
 ## Instructor Information
 
 ---
