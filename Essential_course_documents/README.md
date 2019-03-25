@@ -1,5 +1,5 @@
-# Clark College# Biology 101: Environmental Biology (4116)
-# Syllabus: Winter Quarter 2019
+# Clark College# Biology 101: Environmental Biology (6123)
+# Syllabus: Spring Quarter 2019
 ## Instructor Information
 
 ---
@@ -13,15 +13,15 @@
 
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
-|Lab|CTC 315|T|9:00AM-11:50AM|
-|Lecture|CTC 318|Th|11:00AM-11:50AM|
-|Lecture|CTC 318|T/Th|12:30PM-1:50PM|
+|Lab|CTC 315|T|11:00AM-1:50PM|
+|Lecture|CTC 210|Th|11:00AM-11:50AM|
+|Lecture|CTC 210|T/Th|9:00AM-10:20AM|
 |Office Hours|CTC 0270-2|T|2:00 PM - 3:00 PM|
 
 
 ### Textbooks and other resources
 
-#### Textbook- *Essential Environment* (6th ed), by Withgott and Laposata
+#### Textbook- *Essential Environment* (TODO 6th ed), by Withgott and Laposata
 	- Available at Clark College Bookstore
 - Bring the textbook to class – we will use it during class time.
 
