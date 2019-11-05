@@ -21,8 +21,8 @@
 |Content Type|Room|Day(s)|Time|
 |:---:|:---:|:---:|:---:|
 |Lab|CTC 315|T|9:00 AM-11:50 AM|
-|Lecture|Classroom TBA|Th|11:00 AM-11:50 AM|
-|Lecture|Classroom TBA|T/Th|12:30 PM-1:50 PM|
+|Lecture|CTC 315|Th|11:00 AM-11:50 AM|
+|Lecture|CTC 315|T/Th|12:30 PM-1:50 PM|
 |Office Hours|CTC 0270-2|T|2:00 PM - 3:00 PM|
 
 ### Textbooks and other resources
