@@ -1,7 +1,7 @@
 # Clark College
 
-# Biology 101: Environmental Biology (1985)
-# Syllabus: Winter Quarter 2020
+# Biology 101: Environmental Biology (4852)
+# Syllabus: Spring Quarter 2020
 
 
 ## Instructor Information
@@ -10,7 +10,7 @@
 
 |Name|Office Location|Mailbox|Email|Emergency Email|
 |:---:|:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|Remote||mfisher@clark.edu|mark.aaron.fisher@gmail.com|
+|Mark Fisher, PhD.|Remote|Remote|mfisher@clark.edu|mark.aaron.fisher@gmail.com|
 
 ## Course Info
 
