@@ -10,7 +10,7 @@
 
 |Name|Office Location|Mailbox|Email|Emergency Email|
 |:---:|:---:|:---:|:---:|:---:|
-|Mark Fisher, PhD.|CTC 0272|CTC 0273|mfisher@clark.edu|mark.aaron.fisher@gmail.com|
+|Mark Fisher, PhD.|Remote||mfisher@clark.edu|mark.aaron.fisher@gmail.com|
 
 ## Course Info
 
@@ -18,12 +18,12 @@
 
 ### Class times and locations
 
-|Content Type|Room|Day(s)|Time|
-|:---:|:---:|:---:|:---:|
-|Lab|CTC 315|T|9:00 AM-11:50 AM|
-|Lecture|CTC 318|Th|11:00 AM-11:50 AM|
-|Lecture|CTC 318|T/Th|12:30 PM-1:50 PM|
-|Office Hours|CTC 0270-2|T|2:00 PM - 3:00 PM|
+|Content Type|Zoom Link|Zoom Password|Day(s)|Time|
+|:---:|:---:|:---:|:---:|:---:|
+|Lab|[Link](https://portlandcc.zoom.us/j/94717005751?pwd=bnpVaExsTC9meWpqZEM2MGNTeTc4QT09)|697171|Tuesdays|9:00 AM-11:50 AM|
+|Lecture|[Link](https://portlandcc.zoom.us/j/96525286245?pwd=YUlaOVUzdlFpOTlHQ0VVTVEyOXJNUT09)|199533|Tuesdays|12:30 PM-1:50 PM|
+|Lecture and Conference|[Link](https://portlandcc.zoom.us/j/99359901169?pwd=eEJnV2xDSE1nZ3ErY2J3b0ZjK3dSUT09)|518436|Thursdays|11:00 AM-11:50 AM; 12:30 PM-1:50 PM|
+|Office Hours|Request one via my inbox on Canvas||By appointment|By appointment|
 
 ### Textbooks and other resources
 
@@ -31,10 +31,10 @@
 
 - *Essential Environment* (6th ed), by Withgott and Laposata
 	- Available at Clark College Bookstore
-- Bring the textbook to class – we will use it during class time.
+- Have the textbook handy during class time – we will use it for activities.
 
 #### Computer Resources
-- There is a convenient computer lab in the library, and a list of Clark College’s computer labs can be accessed [here](http://www.clark.edu/campus-life/student-support/computing_resources/hours.php)
+- There is a convenient computer lab in the library, and a list of Clark College’s computer labs can be accessed [here](http://www.clark.edu/campus-life/student-support/computing_resources/hours.php) (Note: the Computer Lab access and hours have changed due to the pandemic; see their site for details)
 - Library Resources, Tutoring and Writing Center, and Disability Support Services as well as other resources can be accessed on the [Clark College website](http://www.Clark.edu).
 
 #### Socrative
@@ -46,27 +46,25 @@
 
 Examples of topics that we will discuss include environmental issues and their roots, human population growth and its impact on natural systems, ecosystems, invasive species, water quality, biodiversity, and ecological restoration.
 
-Environmental Biology Lab is part of this course and provides additional opportunities for exploring environmental topics through hands-on activities, in-depth discussions, and field activities.
+Environmental Biology Lab is part of this course and provides additional opportunities for exploring environmental topics through activities, in-depth discussions, and online simulations.
 
 **This class meets 5 of your 15 science distribution credits for an Associate of Arts transfer degree. **
 
 #### Philosophy and purpose of this course
 
-In this course you will have the opportunity to learn about and reflect on your impact on the environment. It is my hope that you make some lifestyle changes after you learn about your own ecological footprint. I believe we can all learn from each other, so I encourage collaborative sharing of ideas (except during exams!). It is well known that we learn best by doing and experiencing, and that is where the interactive lab activities will further expand your understanding of the lecture concepts. I encourage you to come with an open mind!
+In this course you will have the opportunity to learn about and reflect on your impact on the environment. It is my hope that you make some lifestyle changes after you learn about your own ecological footprint. I believe we can all learn from each other, so I encourage collaborative sharing of ideas (except during exams!).
 
 #### Lab information
 Please note that the lab and conference are NOT separate entities from the lecture. One final grade is given for entirety of class and lab assignments.
 
-Labs focus on hands-on learning of key concepts; some labs will be outdoors or in the greenhouse, but the majority will take place in the classroom designated for labs.
+Labs will often (but not always) focus on collaborative learning of key concepts that will reinforce concepts introduced during lectures.
 
-Conferences will be used to introduce/review labs, take lecture tests and lab quizzes, and participate in additional activities and small group discussions. It is my hope that you will feel comfortable in the small group setting of lab and conference to participate in interactive group discussion and share your opinions, ideas and thoughts with your fellow lab-mates. Through collaboration you will come to a more full understanding of your place in the environment and what role you can play in a sustainable future.
+Conferences will be used to introduce/review labs, take lecture tests and lab quizzes, and participate in additional activities and small group discussions. It is my hope that you will feel comfortable in the small group setting of the Zoom breakout groups during lab and conference to participate in interactive group discussion and share your opinions, ideas and thoughts with your fellow classmates. Through collaboration you will come to a more full understanding of your place in the environment and what role you can play in a sustainable future.
 
 
 #### Expectations
 
-
-
-Science doesn't come naturally to most people. If this is your first collegiate science course, you might be surprised at the amount of time required to be successful. Typically for every 1 hour a student is in a classroom lecture, they should be putting in 3 hours of homework on assignments, reading, and study time. This means that you should **carve out about 9 hours a week** to devote to reading, reviewing and completing assignments outside of the time spent with me in the classroom. This can vary for each student depending on how effectively you use your time and how well you comprehend the reading, but it should give you an idea of a typical college course expectation.
+Science doesn't come naturally to most people. If this is your first collegiate science course, you might be surprised at the amount of time required to be successful. Typically for every 1 hour a student is in a classroom lecture, they should be putting in 3 hours of homework on assignments, reading, and study time. This means that you should **carve out about 9 hours a week** to devote to reading, reviewing and completing assignments outside of the time spent with me in the virtual classroom. This can vary for each student depending on how effectively you use your time and how well you comprehend the reading, but it should give you an idea of a typical college course expectation.
 
 Your effort outside of class will be reflected in the quality of work you do and result in a corresponding grade. In other words, do not expect an “A” grade when you are not putting in the time/effort outside of the classroom to achieve “A” work.
 
@@ -76,12 +74,11 @@ Your effort outside of class will be reflected in the quality of work you do and
 
 1.	You are responsible for knowing the due dates of assignments.
 
-2. If you miss lab, you are responsible for obtaining copies of handouts from other students. Handouts will not be brought to class a second time for those students who missed class.
+3. You are responsible for attending each lab and lecture's Zoom session and/or covering all recorded material independently and submitting relevant course materials on time.
 
-3. You are responsible for knowing WHERE the lab is meeting on any particular day.
-4.	You are responsible for knowing how you are doing in class. All points are cumulative. I'll often be collecting graded documents back after distributing them (quizzes, exams, etc.), so it may not be a bad idea to record your scores somewhere consistent to keep track. Instructors make grading mistakes, so it will benefit you to keep your own backup records.
+4.	You are responsible for knowing how you are doing in class. All points are cumulative. It may not be a bad idea to record your scores somewhere consistent to keep track. Instructors make grading mistakes, so it will benefit you to keep your own backup records.
 
-*As you might imagine, we instructors get a ton of emails containing questions that could easily be answered by looking at this document, the course schedule, or referring to announcements made online. **As a courtesy to me, please make sure that these information sources have been checked before you email me with logistical questions. I reserve the right to reply with, "see syllabus" or "see announcements".**
+**As you might imagine, we instructors get a ton of emails containing questions that could easily be answered by looking at this document, the course schedule, or referring to announcements made online. **As a courtesy to me, please make sure that these information sources have been checked before you email me with logistical questions. I reserve the right to reply with, "see syllabus" or "see announcements".**
 
 ### Course objectives
 
@@ -105,11 +102,11 @@ Upon successful completion of this course, a student should be able to:
 
 	Per university policy, attendance during the first week of class is mandatory. If you are absent during the first week and do not contact me, you will be dropped from the class. Attendance during the remainder of the term is critical to your success in this course. I will be tracking attendance with Socrative, and it will contribute to your participation grade (see below). The exams will focus on material covered in lecture, and the answers to the exam questions may not be available directly from the textbook.
 
-	If you are unable to attend a class later in the quarter, I will not have notes available for you; please get in touch with a classmate (or better yet, ask one in advance to take notes for you if you know in advance that you won't be there).
+	I am committed to making this an equitable experience for all of you. Because of the remote format of this course, **I will be recording videos of all lectures and labs and posting them on Canvas**. It will be possible to earn an A in the course without attending the Zoom lectures in person and participating via Socrative after the first week; I just strongly discourage it. Watching lecture videos when it's not live is significantly more difficult because the internet is so tempting and distracting.
 
 2.	Class Preparation
 
-	Success in this course depends not only on attendance, but also on effort. Many of the concepts that we will discuss tend to be unfamiliar to students, and much of the vocabulary will likely also be new. In order to make the most of class time, read over the assigned chapters or sections BEFORE the class and then re-read them more carefully DIRECTLY AFTER the class in which they are discussed. Waiting until right before a test to read the text is highly ineffective. Throughout the quarter, there will be in-class group activities and I will also be calling on students for responses to questions. Your interaction on these fronts will contribute to your participation grade.
+	Success in this course depends not only on attendance, but also on effort. Many of the concepts that we will discuss tend to be unfamiliar to students, and much of the vocabulary will likely also be new. In order to make the most of class time, read over the assigned chapters or sections BEFORE the class and then re-read them more carefully DIRECTLY AFTER the class in which they are discussed. Waiting until right before a test to read the text is highly ineffective. Throughout the quarter, there will be in-class group activities and, in addition to Socrative, I will be calling on students for responses to questions directly. Your interaction on these fronts will contribute to your participation grade.
 
 3.	Study Suggestions
 
@@ -117,23 +114,25 @@ Upon successful completion of this course, a student should be able to:
 
 	- Work hard during lectures. This work does not involve writing, word for word, everything that is said. Consider instead the strategy of taking sketchy notes during class, which frees up limited attention space for listening, participating, and thinking about the topics discussed. Following class, flesh out your notes, adding as much detail as possible. This forces a re-thinking of the discussion, putting the concepts in an order that makes sense to you.
 	- Make a list of questions as you study your notes and read the textbook. Ask these questions during conference, lecture, or ask another student while you're studying.
-	- Use the objectives at the beginning of each chapter AND the “Testing Your Comprehension questions” at the end of the chapter as a study guide. These review questions will highlight what is most important to focus on in the text. If any of my objectives for a unit go beyond those mentioned in the textbook, I will make you aware of that.
-	- Form study groups! Study groups can help everyone, whether you are doing well or are doing poorly. Use your study group to quiz each other and offer short teaching demos to each other on particular topics; you never truly appreciate what you know and don't know until you have to teach it to somebody else.
+	- Use the objectives at the beginning of each lecture AND the “Testing Your Comprehension questions” at the end of the chapter as a study guide. These review questions will highlight what is most important to focus on in the text. If any of my objectives for a unit go beyond those mentioned in the textbook, I will make you aware of that during lecture.
+	- Exchange contact information with your classmates and form virtual study groups! Study groups can help everyone, whether you are doing well or are doing poorly. Use your study group to quiz each other and offer short teaching demos to each other on particular topics; you never truly appreciate what you know and don't know until you have to teach it to somebody else.
+
 
 4. Academic Honesty
 
 	Academic honesty is required at all times. I have a ZERO tolerance policy for cheating. Anyone caught cheating will receive an “F” for the assignment and will likely be dropped from the course with a failing grade. If the cheating is discovered after the last drop date, the student receives an “F”. In addition, the student may be referred to the Office of the Vice President for further disciplinary action.
 
 	Cheating takes many forms. If you are not clear on what constitutes cheating (plagiarism, etc.), just ask me. Some quick examples of academic dishonesty include misrepresenting another student‘s work as your own or saying that you performed community service that you didn't.
+
 5. Classroom Behavior
 
 	Modern technology is amazing, and in many instances it can be a tremendous learning asset. I'm not going to stop you from having or using these resources in class because you are an adult, and indeed will often leverage them to enhance your learning experience. However, sometimes the myriad temptations provided by having a phone, tablet, or laptop in front of you can compete with the course content for your attention.
 
 	There are several studies that demonstrate a dramatic decrease of retention when a learner tries to multi-task, so please be aware of this and be warned that YOU ARE NOT MIRACULOUSLY IMMUNE TO THIS EFFECT.
 
-	If you are honest with yourself and find the temptation too great, I strongly recommend taking notes by hand.
+	If you are honest with yourself and find the temptation too great, I strongly recommend taking notes by hand and employing some kind of focusing tool (like [this environmentalism-themed social focus app](https://flora.appfinca.com/) or [a site-blocker like LeechBlock](https://www.proginosko.com/leechblock/?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier)).
 
-	A respectful environment will be maintained at all times. Please refer to the Code of Student Conduct online so you understand the student rights and responsibilities.
+	A respectful environment will be maintained at all times (especially online!). Please refer to the Code of Student Conduct online so you understand the student rights and responsibilities.
 
 6. Course Withdrawal
 
@@ -171,9 +170,9 @@ Upon successful completion of this course, a student should be able to:
 
 |Graded Component|Details|Contribution (raw points)|Contribution (% of final grade)|
 |:---:|:---:|:------:|:---:|
-|Community Service|You will be responsible for coming up with a detailed plan for environmental community service by the end of week 4. During the quarter, you will be responsible for at least 8 hours of verified work. Document your work and answer the questions on the form in a single spaced typed one-two page final report. Final forms are due to be uploaded to our course website by the last lecture period. I am highly recommending work at the Clark College Native Plant Propagation Center located at the college greenhouse. I will provide a list with one or two other options as well. If you want to volunteer with any other environmental organization for this credit, you MUST get my approval BEFORE volunteering in order to receive credit. All forms will be posted on our course website.|100|13.8%|
-|Tests|Tests will not be comprehensive. They will cover the chapters and information from the labs that week. Tests will be multiple choice, matching, true/false, and short answer. Please bring a #2 pencil, an eraser, and scantron forms (you are responsible for providing your own scantron forms; they are available for sale in a vending machine on the second floor of CTC). Your lowest test score will be dropped. Tests will be given in conference unless otherwise noted. NO make-up tests since I drop a score anyway.|best four of five tests @ 50 points each = 200|27.6%|
-|Final Exam|The final exam will be comprehensive (covering material from the entire quarter). It will have the same format as the other tests.	Any material covered in lab, lecture or conference may appear on the final exam.|100|13.8%|
+|Community Service|You will be responsible for coming up with a detailed plan for environmental community service by the end of week 4. During the quarter, you will be responsible for at least 8 hours of verified work. **Document and track your work** (a free app like [Toggl](http://toggl.com/) might be helpful) and answer the questions on the form in a single spaced typed one-two page final report. Final forms are due to be uploaded to our course site by the last lecture period. **Given the remote nature of courses this quarter, I will provide a list with several remote community service opportunities**. If you want to volunteer with any other environmental organization for this credit, you MUST get my approval BEFORE volunteering in order to receive credit. All forms will be posted on our course site.|100|13.8%|
+|Tests|Tests will not be cumulative. They will cover the chapters and information from the labs since the previous test (see schedule for specific chapter/lab coverage for each test). Tests will be multiple choice, matching, true/false, and short answer. They will be administered via Canvas. Your lowest test score will be dropped. NO make-up tests since I drop a score anyway.|Best four of five tests @ 50 points each = 200|27.6%|
+|Final Exam|The final exam will be cumulative (covering material from the entire quarter). It will have the same format as the other tests. It will be administered via Canvas. Any material covered in lab, lecture or conference may appear on the final exam.|100|13.8%|
 |Other assignments/reading quizzes/in-class activities|These may be assigned and/or completed in lecture. Stay tuned for more information.|~18|2.1%|
 |Participation|Every student begins the quarter with a perfect participation score. Deductions occur when students are absent, tardy, disruptive, don't contribute to conversation in lecture, and/or don't conduct themselves professionally|50|6.9%|
 |Lab Assignments|Lab assignments will consist of either active participation in the lab itself or of worksheets focusing on readings and/or the lab activities. Lab assignments will be due at the end of lab. Occasionally there may be a pre-lab assignment. |9 @ 15 points each = 135|16.6%|
@@ -207,7 +206,7 @@ Upon successful completion of this course, a student should be able to:
 
 #### Course Schedule
 
-The course schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1VzFvP5PEFnOKjtI4nmxta7PozU9ef0U8QVwFSYfWYOM/edit?usp=sharing). This schedule is tentative and subject to change. Any changes will be announced in LECTURE. It is a student’s responsibility to keep apprised of changes. Labs in bold mean there will be outdoor activities involved – dress accordingly.
+The course schedule can be viewed [here](https://docs.google.com/spreadsheets/d/1VzFvP5PEFnOKjtI4nmxta7PozU9ef0U8QVwFSYfWYOM/edit?usp=sharing). This schedule is tentative and subject to change. Any changes will be announced in lecture or on Canvas. It is a student’s responsibility to keep apprised of changes.
 
 #### ADA Accommodations
 If you have emergency medical information which should be shared; or if you
