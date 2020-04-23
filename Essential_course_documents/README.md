@@ -20,9 +20,9 @@
 
 |Content Type|Zoom Link|Zoom Password|Day(s)|Time|
 |:---:|:---:|:---:|:---:|:---:|
-|Lab|[Link](https://portlandcc.zoom.us/j/94717005751?pwd=bnpVaExsTC9meWpqZEM2MGNTeTc4QT09)|697171|Tuesdays|9:00 AM-11:50 AM|
-|Lecture|[Link](https://portlandcc.zoom.us/j/96525286245?pwd=YUlaOVUzdlFpOTlHQ0VVTVEyOXJNUT09)|199533|Tuesdays|12:30 PM-1:50 PM|
-|Lecture and Conference|[Link](https://portlandcc.zoom.us/j/99359901169?pwd=eEJnV2xDSE1nZ3ErY2J3b0ZjK3dSUT09)|518436|Thursdays|11:00 AM-11:50 AM; 12:30 PM-1:50 PM|
+|Lab|[Link](https://portlandcc.zoom.us/j/96918271122)|880646|Tuesdays|9:00 AM-11:50 AM|
+|Lecture|[Link](https://portlandcc.zoom.us/j/96918271122)|880646|Tuesdays|12:30 PM-1:50 PM|
+|Lecture and Conference|[Link](https://portlandcc.zoom.us/j/96918271122)|880646|Thursdays|11:00 AM-11:50 AM; 12:30 PM-1:50 PM|
 |Office Hours|Request one via my inbox on Canvas||By appointment|By appointment|
 
 ### Textbooks and other resources
